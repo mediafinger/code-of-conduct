@@ -1527,7 +1527,7 @@
         {
           "name": "Gordon Brown",
           "twitter": "AerialMantis"
-        },          
+        },
         {
           "name": "Joseph Mansfield",
           "twitter": "sftrabbit"
@@ -1607,6 +1607,24 @@
         {
           "name": "Astrit Dibrani",
           "twitter": "astrit_dibrani"
+        }
+      ]
+    },
+    {
+      "name": "Barcelona on Rails",
+      "city": "Barcelona",
+      "country": "Spain",
+      "link": "https://www.meetup.com/Barcelona-on-Rails/",
+      "twitter": "bcnrails",
+      "contacts": [
+        {
+          "name": "Andreas Finger",
+          "twitter": "mediafinger",
+          "phone": "688 988 550"
+        },
+        {
+          "name": "David Vrensk",
+          "twitter": "dvrensk"
         }
       ]
     }
